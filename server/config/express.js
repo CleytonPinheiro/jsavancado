@@ -1,6 +1,6 @@
 /* Código simplório, apenas para fornecer o serviço para a aplicação */
 
-var express = require('server/config/express')
+var express = require('express')
     ,app = express()
     ,routes = require('../app/routes')
     ,path =  require('path')
