@@ -1,7 +1,5 @@
 class HttpService {
 
-
-
     get(url){
         return new Promise((resolve, reject) => {
 
